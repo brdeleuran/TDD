@@ -1,0 +1,17 @@
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.abstractions.dll
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.runner.reporters.net452.dll
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.runner.utility.net452.dll
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\TDD.exe.config
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\TDD.exe
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\TDD.pdb
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.assert.dll
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.core.dll
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.execution.desktop.dll
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.assert.xml
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.core.xml
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\bin\Debug\xunit.execution.desktop.xml
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\obj\Debug\TDD.csprojAssemblyReference.cache
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\obj\Debug\TDD.csproj.CopyComplete
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\obj\Debug\TDD.exe
+C:\Users\Bjoern Deleuran\source\repos\TDD\TDD\obj\Debug\TDD.pdb
