@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace TDD
 {
+    //Hvor er din kodekommentarer?
     public class User
     {
+        //Siden hvornår har en bruger fået både en pinkode og en balance?
+        //Forkert navngivning
         private string pin;
         public string Pin { get { return pin; } }
         
